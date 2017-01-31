@@ -5,3 +5,4 @@ uses lodepng for loading png textures
 md2 loader code based on David HENRY's
 md2 renderer based on portal3DS's
 texture.c taken from portal3DS
+ratman.md2 and ratman.png by LOBO
